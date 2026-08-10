@@ -1,4 +1,6 @@
 # Hr Data Analysis
-  Employee attrition is one of the major challenges faced by organizations, resulting in increased recruitment costs, reduced productivity, knowledge loss, and lower employee morale. HR departments often struggle to identify the factors contributing to employee turnover due to the absence of centralized analytics and real-time workforce insights.
-  Organizations require a comprehensive analytical solution to understand workforce demographics, employee satisfaction, compensation, work-life balance, overtime patterns, and departmental performance. Without data-driven insights, it becomes difficult to identify high-risk employees, improve retention strategies, and make informed workforce planning decisions.
-The primary objective of this project is to analyze HR data using Tableau to identify the key factors influencing employee attrition and provide actionable insights for improving employee retention and organizational performance.
+    Employee attrition is one of the major challenges faced by organizations, resulting in increased recruitment costs, reduced productivity, knowledge loss, and lower employee morale. HR departments often struggle to identify the factors contributing to employee turnover due to the absence of centralized analytics and real-time workforce insights.
+    
+    Organizations require a comprehensive analytical solution to understand workforce demographics, employee satisfaction, compensation, work-life balance, overtime patterns, and departmental performance. Without data-driven insights, it becomes difficult to identify high-risk employees, improve retention strategies, and make informed workforce planning decisions.
+    
+    The primary objective of this project is to analyze HR data using Tableau to identify the key factors influencing employee attrition and provide actionable insights for improving employee retention and organizational performance.
